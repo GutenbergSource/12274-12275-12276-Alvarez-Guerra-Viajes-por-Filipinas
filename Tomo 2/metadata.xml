@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Viajes por Filipinas: De Manila á Albay</dc:title>
+      <dc:creator>Juan Álvarez Guerra (1843–1905)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2004-05-01</dc:publisher>
+      <dc:date>2004-05-01</dc:date>
+      <dc:rights>Published in 1887, hence public domain in the US.
+        </dc:rights>
+      <dc:subject>Philippines -- Description and travel</dc:subject>
+      <dc:identifier>pg:12275</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
